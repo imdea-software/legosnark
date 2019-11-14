@@ -1,4 +1,4 @@
 # legosnark
 This repository contains an API for composable zkSNARKs following the philosophy in the [LegoSNARK](https://eprint.iacr.org/2019/142.pdf) paper.
 
-This code has long been due; a preliminary version will be available before CCS (11/11/2020).
+This code has long been due. A preliminary version was supposed to be available before CCS 2019; it will be available slightly later.
