@@ -24,6 +24,9 @@ This codebase is part of the [LegoSNARK paper](https://eprint.iacr.org/2019/142.
 
 <sup>(*We are still considering an EDSL for commit-and-prove but moved  our focus from C++  to Rust as an implementation language as we found the latter to be a superior match)</sup>
 
+#### Looking for LegoGroth16?
+If you are looking for LegoGroth16, the commit-and-prove version of Groth16, you can find a Rust implementation [here](https://github.com/kobigurk/legogro16).
+
 
 ## Overview
 
