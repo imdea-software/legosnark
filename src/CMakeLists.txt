@@ -19,7 +19,7 @@ include_directories(
   ${DEPENDS_DIR}/fmt/include
   )
 
-link_libraries(fmt-header-only)
+link_libraries(fmt::fmt-header-only)
 
 
 ## == LEGOFW library ==
